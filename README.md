@@ -70,7 +70,7 @@ https://api.github.com/users/<username>/events
 ## 📄 Project URL
 
 https://github.com/saiGaneshChillara/github-activity-cli
-
+https://roadmap.sh/projects/github-user-activity
 ---
 
 ## 📜 License
